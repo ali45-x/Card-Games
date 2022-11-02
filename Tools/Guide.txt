@@ -1,0 +1,9 @@
+This is your guide for the best experience  with TriPeaks
+
+The rules are simple ,Click on a card with Vaules Higer or less than the cards Being shown at the bottom of the screen 
+By doing this you reveil blocked cards so they are playable
+Ace is 1 ,King-13,Queen-12 and Jack-11,
+Example ,if the card in the bottom pile is a Queen ,the Value below it is a Jack and above it is a King {LoL}
+The card Below the King is Ace 
+If you have no moves you could simply, Tap on the Card next to the play card at the bottom.
+Try to complete the game without all the cards in the pile finishing 

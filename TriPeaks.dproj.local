@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/20 15:24:48.633.pas,C:\Users\yankA\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\yankA\Desktop\11pat\home.pas</Transaction>
+    <Transaction>2019/09/20 15:24:48.639.dfm,C:\Users\yankA\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\yankA\Desktop\11pat\home.dfm</Transaction>
+    <Transaction>2019/09/20 15:24:59.185.pas,C:\Users\yankA\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\yankA\Desktop\11pat\welcome.pas</Transaction>
+    <Transaction>2019/09/20 15:24:59.185.dfm,C:\Users\yankA\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\yankA\Desktop\11pat\welcome.dfm</Transaction>
+    <Transaction>2019/09/20 15:26:25.246.dproj,C:\Users\yankA\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\yankA\Desktop\11pat\min_and_match.dproj</Transaction>
+    <Transaction>2019/09/21 15:23:23.390.pas,C:\Users\yankA\Desktop\11pat\Unit2.pas=C:\Users\yankA\Desktop\11pat\Database_u.pas</Transaction>
+    <Transaction>2019/09/21 15:23:23.390.dfm,C:\Users\yankA\Desktop\11pat\Unit2.dfm=C:\Users\yankA\Desktop\11pat\Database_u.dfm</Transaction>
+    <Transaction>2019/09/21 15:54:48.837.pas,C:\Users\yankA\Desktop\11pat\Unit1.pas=C:\Users\yankA\Desktop\11pat\Stats.pas</Transaction>
+    <Transaction>2019/09/21 15:54:48.837.dfm,C:\Users\yankA\Desktop\11pat\Unit1.dfm=C:\Users\yankA\Desktop\11pat\Stats.dfm</Transaction>
+    <Transaction>2019/09/21 15:57:05.597.dproj,C:\Users\yankA\Desktop\11pat\min_and_match.dproj=C:\Users\yankA\Desktop\11pat\TriPeaks.dproj</Transaction>
+    <Transaction>2019/09/21 20:41:09.827.pas,C:\Users\yankA\Desktop\11pat\Unit2.pas=C:\Users\yankA\Desktop\11pat\help_u.pas</Transaction>
+    <Transaction>2019/09/21 20:41:09.827.dfm,C:\Users\yankA\Desktop\11pat\Unit2.dfm=C:\Users\yankA\Desktop\11pat\help_u.dfm</Transaction>
+    <Transaction>2019/09/22 14:28:10.841.pas,C:\Users\yankA\Desktop\11pat\Unit1.pas=C:\Users\yankA\Desktop\11pat\admin.pas</Transaction>
+    <Transaction>2019/09/22 14:28:10.869.dfm,C:\Users\yankA\Desktop\11pat\Unit1.dfm=C:\Users\yankA\Desktop\11pat\admin.dfm</Transaction>
+    <Transaction>2019/09/22 14:29:58.167.pas,C:\Users\yankA\Desktop\11pat\admin.pas=</Transaction>
+    <Transaction>2019/09/22 14:29:58.167.dfm,C:\Users\yankA\Desktop\11pat\admin.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
